@@ -373,6 +373,9 @@ hr {
 .btn:hover {
   background-position: right;
 }
+#tatracolor{
+  color: white;
+}
 .btn.focus,
 .btn:focus {
   outline: 0;
